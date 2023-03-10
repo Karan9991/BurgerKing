@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929972527290",
+    "project_id": "kingburger-d0d05",
+    "storage_bucket": "kingburger-d0d05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929972527290:android:bf849d51446c45d13fa283",
+        "android_client_info": {
+          "package_name": "freaktemplate.kingburger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929972527290-u4b20kh4shgpdg7dec2aj20beoeup08o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "freaktemplate.kingburger",
+            "certificate_hash": "571d5a1d78223fd6e1d16f7ce7d3135825c261b5"
+          }
+        },
+        {
+          "client_id": "929972527290-nofar0upfdfc8tahpi8rs809t27b42u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlB5H1M6XjzEwVtWcAQUZ8TL_kWQ5ILgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929972527290-nofar0upfdfc8tahpi8rs809t27b42u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
